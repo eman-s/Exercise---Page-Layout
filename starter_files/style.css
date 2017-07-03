@@ -34,8 +34,6 @@ a{
 }
 
 
-}
-
 
 body{
     font-family: Palatino, Times, serif;
@@ -106,6 +104,7 @@ header{
 #main_content{
   display: flex;
   background-color: #ddffff;
+  margin-bottom: 10px;
 }
 
 #main_content div{
@@ -121,6 +120,9 @@ header{
   display: flex;
   justify-content: space-between;
   background-color: #ffffdd;
+  margin-bottom: 10px;
+}
+
 }
 #sidebar_content h3{
   flex-basis: 30%;
